@@ -1,7 +1,7 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there !</h1>
 
-I am Ranak, A Software Engineering Undergrad student at Shahjalal University of Science & Technology, Sylhet.
+Hello, I'm Md. Rakibul Hasan (Ranak), a software engineer with a passion for problem-solving and programming. My expertise lies in Javascript ( Express, React, Redux, MUI, Chakra UI etc) In addition, I also have working experience in PHP and Python.
 
 I love to solve problems, develop and implement new ideas and learn new
 technologies.
