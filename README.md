@@ -1,11 +1,17 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there !</h1>
+<h2> Hi 👋 ! I'm Ranak</h2>
 
-Hello, I'm Md. Rakibul Hasan (Ranak), a software engineer with a passion for problem-solving and programming. My expertise lies in Javascript ( Express, React, Redux, MUI, Chakra UI etc) In addition, I also have working experience in PHP and Python.
+I am a software engineer who possess a deep passion for problem-solving and programming. My educational background includes a Bacehlor in Software Engineering from the esteemed Shahjalal University of Science & Technology, Sylhet. During my university years, I actively participated in both problem-solving and software development. My enthusiasm for programming led me to take part in over 200 programming contests, where I solved over 1200 complex problems.
+
+My experience extends beyond contest participation and into academic and real-world projects, including game and web development. My expertise in these areas is backed by a strong academic foundation, which I have complemented with a research background in the domain of Computer Vision and Pattern Recognition. As a result of my hard work and dedication, I have an accepted paper in ICDAR, the premier document analysis and recognition conference. Find My paper here : https://arxiv.org/abs/2303.05325
+
+In summary, my academic and practical experience has provided me with a comprehensive skillset to solve complex problems and develop software solutions.
+
+My expertise lies in Javascript ( Express, React, Redux, MUI, Chakra UI etc) In addition, I also have working experience in PHP and Python.
 
 I love to solve problems, develop and implement new ideas and learn new
 technologies.
-
+https://scholar.google.com/citations?hl=en&user=vhS6e-AAAAAJ
  ⚙️ Language and Tools 
 
 ![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![badge-java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![badge-javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![badge-python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
