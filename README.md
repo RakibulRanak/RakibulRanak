@@ -9,7 +9,7 @@ In summary, my academic and practical experience has provided me with a comprehe
 
 - Currently working as an Associate Software Engineer at **Cefalo**
 - Skilled in **Javascript** & **Typescript** programming language
-- Experienced in designing and implementing web application architectures using **Node**, **Express**, **React** etc
+- Experienced in designing and implementing web application architectures using **Node**, **Express**, **Nest** etc
 - Strong communication and collaboration skills
 - Proficient in developing **RESTful APIs**, including designing and implementing API endpoints, and authentication mechanisms
 - Fundamental understanding of both **SQL** and **NoSQL** databases
