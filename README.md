@@ -13,7 +13,7 @@ In summary, my academic and practical experience has provided me with a comprehe
 - Strong communication and collaboration skills
 - Proficient in developing **RESTful APIs**, including designing and implementing API endpoints, and authentication mechanisms
 - Fundamental understanding of both **SQL** and **NoSQL** databases
-- Skilled in Bash scripting for automation and system tasks, adept at leveraging Python for versatile applications, from data manipulation to automation.
+- Skilled in **Bash scripting** for automation and system tasks, adept at leveraging **Python** for versatile applications, from data manipulation to automation.
 - Basic knowledge of agile development methodologies, including continuous integration and automated deployment
 - Competent in Git and collaborative coding projects
 - Excellent team player with good problem-solving skills and self motivation.
