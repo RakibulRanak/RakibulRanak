@@ -14,8 +14,6 @@
 
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
-### Publications
-   - [BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset, accepted at ICDAR'23](https://arxiv.org/abs/2303.05325)
 
 <br>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=RakibulRanak&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
